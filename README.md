@@ -1,8 +1,11 @@
-# RND (nothing is garenteed to work in this reposetory
+Github REPO RND (Testing and Refrence only - nothing is guaranteed to work in this repository)
 
-Deploy Deploy_NGFW_Only
-<p><a href='https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fleebarrell%2FRND%2Fmain%2FDeploy_NGFW_Only.json>deploy to Azure UKS</a></p>
-  
-  
-<a href='https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fphiltaylor%2Farm-templates%2Fmaster%2Fonly_ngfw.json'>Deploy only_ngfw.json</a>
-<p>2 NGFW, untrust, trust, mgmt, - No load balancers</p>
+<a href='https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fleebarrell%2FRND%2Fmain%2FDeploy_NGFW_Only.json'>Deploy The NGFW Only json File</a>
+<p>Add the deployment detail here</p>
+
+Main hooks in URL link
+Account: leebarrell
+REPO: RND
+Branch: Main
+File to run: Deploy_NGFW_Only.json
+Lable: Deploy The NGFW Only json File
