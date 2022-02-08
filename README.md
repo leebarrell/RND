@@ -13,8 +13,7 @@ Lable: Deploy The NGFW Only json File
 
 <a href='https://www.c-sharpcorner.com/article/git-and-github-version-control-local-and-remote-repository/'>Git And Github Version Control (Local And Remote Repository)</a>
 <p>Some great info on link above!</p>
-
-![Uploading git79213874125934.png…]()
+![Uploading Screen.png…]()
 
 GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
